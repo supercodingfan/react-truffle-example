@@ -7,7 +7,7 @@ Currently, it's a nightmare and takes forever trying to get React working with T
 ## Getting Started
 
 2 ways to use:
-1. `$ git clone https://github.com/adriandelgg/Truffle-React-Redux-Boilerplate`
+1. `$ git clone https://github.com/supercodingfan/react-truffle-example`
 2. Use it as a template by clicking the "Use this template" green button on the top right and creating a new repository with it. You can then clone your own repo templated off of this one.
 
 After clone or template:
